@@ -58,27 +58,31 @@ Building realtime applications, responsive websites, and practical web solutions
 
 ---
 
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
+## 🍴 Karishma's Kitchen
+A responsive restaurant website featuring modern UI design, food showcase sections, smooth navigation, and user-friendly layout for better customer experience.
 
-🍴 Karishma's Kitchen
-A restaurant and food-related web application focused on responsive design and smooth user experience.
+🔗 Repo:  
+https://github.com/kapilkurchaniya/Karishma-s-kitchen
 
-🔗 Repo:
-https://github.com/kapilkurchaniya/Karishma-s-kitchen⁠�
+---
 
-🏫 TOGORE VIDYA NIKETAN
-Educational institution website project with structured pages, user-friendly interface, and responsive layout.
+## 🏫 TOGORE VIDYA NIKETAN
+A school website designed to provide educational information, structured page navigation, responsive design, and clean user interface for students and visitors.
 
-🔗 Repo:
-https://github.com/kapilkurchaniya/TOGORE-VIDYA-NIKETAN⁠�
+🔗 Repo:  
+https://github.com/kapilkurchaniya/TOGORE-VIDYA-NIKETAN
 
-❤️ Redlifelline Hub Foundation
-Foundation/organization website project designed for information management, accessibility, and clean UI presentation.
+---
 
-🔗 Repo:
-https://github.com/kapilkurchaniya/Redlifelline-hub-foundation⁠�
+## ❤️ Redlifelline Hub Foundation
+A foundation website focused on presenting organization details, social initiatives, accessibility, and responsive information management through a clean modern interface.
 
+🔗 Repo:  
+https://github.com/kapilkurchaniya/Redlifelline-hub-foundation
+
+---
 
 # 📌 Current Focus
 
