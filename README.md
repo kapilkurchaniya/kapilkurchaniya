@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer • JavaScript Enthusiast • Problem Solver
 
-Building realtime applications, AI chat systems, and modern responsive web apps.
+Building realtime applications, responsive websites, and practical web solutions.
 
 </div>
 
@@ -13,54 +13,45 @@ Building realtime applications, AI chat systems, and modern responsive web apps.
 # 🚀 About Me
 
 - 🎓 B.Tech IT Student at Oriental Institute of Science and Technology
-- 💡 Passionate about building real-world projects
-- ⚡ Love creating responsive and interactive applications
-- 🧠 Solving DSA and LeetCode problems in JavaScript
-- 🔥 Interested in modern frontend and backend development
-- 🛠️ Focused on writing clean and scalable code
+- ⚡ Passionate about building practical real-world projects
+- 💡 Love creating clean and responsive user interfaces
+- 🧠 Solving DSA & LeetCode problems in JavaScript
+- 🔥 Interested in frontend and backend development
+- 🛠️ Focused on writing scalable and maintainable code
 
 ---
 
 # 💻 What I Build
 
-## 🤖 AI & Chat Applications
-- Realtime AI chat systems
-- Socket-based communication apps
-- Dynamic chat title generation
-- Chat history management
-- Responsive chat UIs
-
 ## 🌐 Frontend Development
-- Modern React applications
-- Responsive UI/UX designs
-- Interactive interfaces
+- Responsive React applications
+- Modern UI/UX designs
+- Interactive user experiences
 - Component-based architecture
 
 ## ⚙️ Backend Development
 - Node.js & Express APIs
 - Authentication systems
 - REST APIs
-- Socket.IO realtime connections
-- Database operations
+- Database integration
+- Realtime communication
 
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-## Backend
+### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-## Database
+### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-
-## Tools
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)
@@ -72,14 +63,14 @@ Building realtime applications, AI chat systems, and modern responsive web apps.
 ```js
 const kapil = {
     building: [
-        "AI Chat Applications",
-        "Realtime Socket Projects",
-        "Responsive React Apps"
+        "Responsive Web Applications",
+        "Realtime Projects",
+        "Modern User Interfaces"
     ],
 
     learning: [
         "Advanced JavaScript",
-        "Backend Architecture",
+        "Backend Development",
         "System Design"
     ],
 
