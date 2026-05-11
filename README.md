@@ -118,3 +118,14 @@ const kapil = {
 </a>
 
 </p>
+
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilkurchaniya&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkurchaniya&layout=compact&theme=tokyonight" height="180em"/>
+
+  <img src="https://streak-stats.demolab.com?user=kapilkurchaniya&theme=tokyonight" height="180em"/>
+</p>
