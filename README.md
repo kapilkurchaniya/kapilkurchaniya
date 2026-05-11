@@ -103,7 +103,18 @@ const kapil = {
     codingStyle: "Clean, scalable, practical"
 };
 
+```
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kapil%20Kurchaniya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kapil-kurchaniya-961589353)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kapil-kurchaniya-961589353" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Kapil%20Kurchaniya-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.freelancer.in/u/kapilk326" target="_blank">
+<img src="https://img.shields.io/badge/Freelancer-Kapil%20Kurchaniya-29B2FE?style=for-the-badge&logo=freelancer" />
+</a>
+
+</p>
