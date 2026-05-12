@@ -110,8 +110,8 @@ const kapil = {
 
 <p align="center" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilkurchaniya&theme=github_dark" width="48%"  margin = "20px" />
-/>
 </p>
+
 ---
 
 # 📫 Connect With Me
