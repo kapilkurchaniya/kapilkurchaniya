@@ -108,14 +108,10 @@ const kapil = {
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilkurchaniya&show_icons=true&theme=tokyonight" />
+<p align="center" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilkurchaniya&theme=github_dark" width="48%"  margin = "20px" />
+/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkurchaniya&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 # 📫 Connect With Me
