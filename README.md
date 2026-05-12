@@ -106,13 +106,30 @@ const kapil = {
 
 ---
 
+
 # 📈 GitHub Stats
 
-<p align="center" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilkurchaniya&theme=github_dark" width="48%"  margin = "20px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilkurchaniya&show_icons=true&theme=github_dark" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkurchaniya&layout=compact&theme=github_dark" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kapilkurchaniya&theme=github-dark&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilkurchaniya&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kapilkurchaniya&theme=onedark&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilkurchaniya&theme=github-dark" width="95%"/>
+</p>
 
 # 📫 Connect With Me
 
