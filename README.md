@@ -86,7 +86,7 @@ https://github.com/kapilkurchaniya/Redlifelline-hub-foundation
 
 # 📌 Current Focus
 
-```js
+js
 const kapil = {
     building: [
         "Responsive Web Applications",
@@ -103,7 +103,20 @@ const kapil = {
     codingStyle: "Clean, scalable, practical"
 };
 
-```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilkurchaniya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkurchaniya&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 # 📫 Connect With Me
 
@@ -119,13 +132,10 @@ const kapil = {
 
 </p>
 
+---
 
-# 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilkurchaniya&show_icons=true&theme=tokyonight" height="180em"/>
+### ⚡ Code • Build • Learn • Improve
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkurchaniya&layout=compact&theme=tokyonight" height="180em"/>
-
-  <img src="https://streak-stats.demolab.com?user=kapilkurchaniya&theme=tokyonight" height="180em"/>
-</p>
+</div>
