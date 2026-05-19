@@ -152,7 +152,7 @@ const kapil = {
 
 
 
-### ⚡ Code • Build • Learn • Improve
+### ⚡ Code • Build • Learn • Improve. 
 
 </div>
 ---
