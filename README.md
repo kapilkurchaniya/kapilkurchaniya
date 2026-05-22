@@ -46,6 +46,8 @@ Building realtime applications, responsive websites, and practical web solutions
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
@@ -53,10 +55,10 @@ Building realtime applications, responsive websites, and practical web solutions
 
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)
-
 ---
 
 # 🌟 Featured Projects
