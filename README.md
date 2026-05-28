@@ -87,6 +87,14 @@ https://github.com/kapilkurchaniya/Redlifelline-hub-foundation
 
 ---
 
+## 💼 Kapil.dev Portfolio Website
+A modern personal developer portfolio showcasing projects, technical skills, achievements, and responsive UI/UX design with smooth animations and interactive sections.
+
+🔗 Repo:  
+https://github.com/kapilkurchaniya/Kapil.dev
+
+---
+
 # 📌 Current Focus
 
 js
