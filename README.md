@@ -127,7 +127,8 @@ const kapil = {
 
 ## Resume 
 
-[Kapil_Kurchaniya_Resume (1).pdf](https://github.com/user-attachments/files/28190227/Kapil_Kurchaniya_Resume.1.pdf)
+[Kapil_Kurchaniya_Resume.1 (1).pdf](https://github.com/user-attachments/files/28687642/Kapil_Kurchaniya_Resume.1.1.pdf)
+
 
 ---
 
