@@ -93,6 +93,12 @@ A modern personal developer portfolio showcasing projects, technical skills, ach
 🔗 Repo:  
 https://github.com/kapilkurchaniya/Kapil.dev
 
+## 🍀 KRISHI-MITRA
+An AI-powered smart agricultural assistant helping farmers with crop health, weather insights, mandi prices, and real-time farming guidance.
+
+🔗 Repo:  
+https://github.com/kapilkurchaniya/KRISHI-MITRA-
+
 ---
 
 # 📌 Current Focus
