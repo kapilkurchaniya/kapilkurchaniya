@@ -1,10 +1,10 @@
-# Hi 👋 I'm Kapil Kurchaniya
-
 <div align="center">
 
-### 💻 Full Stack Developer • JavaScript Enthusiast • Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋%20I'm%20Kapil%20Kurchaniya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-Building realtime applications, responsive websites, and practical web solutions.
+<a href="https://github.com/kapilkurchaniya">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Enthusiast;Problem+Solver;Building+Realtime+Applications;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -18,24 +18,38 @@ Building realtime applications, responsive websites, and practical web solutions
 - 🧠 Solving DSA & LeetCode problems in JavaScript
 - 🔥 Interested in frontend and backend development
 - 🛠️ Focused on writing scalable and maintainable code
+- 📫 Always open to interesting collaborations
+
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/graph.svg" width="0" height="0" />
 
 ---
 
 # 💻 What I Build
 
-## 🌐 Frontend Development
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Frontend Development
 - Responsive React applications
 - Modern UI/UX designs
 - Interactive user experiences
 - Component-based architecture
 
-## ⚙️ Backend Development
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Development
 - Node.js & Express APIs
 - Authentication systems
 - REST APIs
 - Database integration
 - Realtime communication
-- RAGS 
+- RAGs
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,53 +73,73 @@ Building realtime applications, responsive websites, and practical web solutions
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)
+
+### Animated Skill Icons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind,nodejs,express,mongodb,redis,git,github,vscode&perline=7" />
+</p>
+
 ---
 
 # 🌟 Featured Projects
 
-## 🍴 Karishma's Kitchen
+<table>
+<tr>
+<td width="50%">
+
+### 🍴 Karishma's Kitchen
 A responsive restaurant website featuring modern UI design, food showcase sections, smooth navigation, and user-friendly layout for better customer experience.
 
-🔗 Repo:  
-https://github.com/kapilkurchaniya/Karishma-s-kitchen
+🔗 [Repo](https://github.com/kapilkurchaniya/Karishma-s-kitchen)
 
----
+</td>
+<td width="50%">
 
-## 🏫 TOGORE VIDYA NIKETAN
+### 🏫 TOGORE VIDYA NIKETAN
 A school website designed to provide educational information, structured page navigation, responsive design, and clean user interface for students and visitors.
 
-🔗 Repo:  
-https://github.com/kapilkurchaniya/TOGORE-VIDYA-NIKETAN
+🔗 [Repo](https://github.com/kapilkurchaniya/TOGORE-VIDYA-NIKETAN)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## ❤️ Redlifelline Hub Foundation
+### ❤️ Redlifelline Hub Foundation
 A foundation website focused on presenting organization details, social initiatives, accessibility, and responsive information management through a clean modern interface.
 
-🔗 Repo:  
-https://github.com/kapilkurchaniya/Redlifelline-hub-foundation
+🔗 [Repo](https://github.com/kapilkurchaniya/Redlifelline-hub-foundation)
 
----
+</td>
+<td width="50%">
 
-## 💼 Kapil.dev Portfolio Website
+### 💼 Kapil.dev Portfolio Website
 A modern personal developer portfolio showcasing projects, technical skills, achievements, and responsive UI/UX design with smooth animations and interactive sections.
 
-🔗 Repo:  
-https://github.com/kapilkurchaniya/Kapil.dev
+🔗 [Repo](https://github.com/kapilkurchaniya/Kapil.dev)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🍀 KRISHI-MITRA
+### 🍀 KRISHI-MITRA
 An AI-powered smart agricultural assistant helping farmers with crop health, weather insights, mandi prices, and real-time farming guidance.
 
-🔗 Repo:  
-https://github.com/kapilkurchaniya/KRISHI-MITRA-
+🔗 [Repo](https://github.com/kapilkurchaniya/KRISHI-MITRA-)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📌 Current Focus
 
-js
+```js
 const kapil = {
     building: [
         "Responsive Web Applications",
@@ -121,22 +155,21 @@ const kapil = {
 
     codingStyle: "Clean, scalable, practical"
 };
-
+```
 
 ---
 
-## Resume 
+## 📄 Resume
 
 [Kapil_Kurchaniya_Resume.1 (1).pdf](https://github.com/user-attachments/files/28687642/Kapil_Kurchaniya_Resume.1.1.pdf)
 
-
 ---
-
 
 # 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kapilkurchaniya&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkurchaniya&layout=compact&theme=github_dark" width="38%" />
 </p>
 
 <p align="center">
@@ -154,6 +187,17 @@ const kapil = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilkurchaniya&theme=github-dark" width="95%"/>
 </p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kapilkurchaniya/kapilkurchaniya/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kapilkurchaniya/kapilkurchaniya/main/dist/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kapilkurchaniya/kapilkurchaniya/main/dist/github-snake.svg" width="95%" alt="snake animation"/>
+  </picture>
+</p>
+
+---
 
 # 📫 Connect With Me
 
@@ -173,9 +217,10 @@ const kapil = {
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=kapilkurchaniya&style=for-the-badge&color=2575fc" alt="Profile Views" />
 
+### ⚡ Code • Build • Learn • Improve.
 
-### ⚡ Code • Build • Learn • Improve. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
 
 </div>
----
