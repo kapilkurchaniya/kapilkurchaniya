@@ -17,16 +17,18 @@ jobs:
           fetch-depth: 0
 
       - name: Generate snake animation
-        uses: Platane/snk@master
+        id: snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit & Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update snake animation" && git push)
+      - name: Commit generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions"
+          author_email: "action@github.com"
+          message: "chore: update snake animation"
+          add: "dist/*.svg"
