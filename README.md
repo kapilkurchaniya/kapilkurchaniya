@@ -1,5 +1,5 @@
  # Hi 👋 I'm Kapil Kurchaniya
-
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋%20I'm%20Kapil%20Kurchaniya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
