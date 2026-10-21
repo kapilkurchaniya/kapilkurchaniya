@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6a11cb,100:2575fc&height=270&section=header&text=Kapil%20Kurchaniya&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Realtime%20Apps%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=18&animation=twinkling" alt="Kapil Kurchaniya banner" width="100%" />
 
